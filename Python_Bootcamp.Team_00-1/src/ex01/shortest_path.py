@@ -34,10 +34,10 @@ def tree_traversal(src: str, dest: str, visited=set()) -> list:
         return [[src]]
     if src not in visited:
         visited.add(src)
-        if dest in json_data[src]:
+        if dest in json_data.get(src, []):
             res += [[dest]]
         else:
-            for node in json_data[src]:
+            for node in json_data.get(src, []):
                 node_res = tree_traversal(node, dest)
                 for path in node_res:
                     path.append(node)
