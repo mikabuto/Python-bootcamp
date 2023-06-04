@@ -1,0 +1,30 @@
+{
+  "Cat": [
+    "Angolan slender mongoose",
+    "Animal"
+  ],
+  "Angolan slender mongoose": [
+    "Bat-eared fox",
+    "Bay cat"
+  ],
+  "Bat-eared fox": [
+    "Banded mongoose",
+    "Banded palm civet"
+  ],
+  "Bay cat": [
+    "Bat-eared fox",
+    "Bdeogale"
+  ],
+  "Animal": [
+    "Apusomonadida",
+    "Aquatic animal"
+  ],
+  "Apusomonadida": [
+    "Colponemida",
+    "Cristidiscoidea"
+  ],
+  "Aquatic animal": [
+    "Deep sea communities",
+    "Deep sea creature"
+  ]
+}
