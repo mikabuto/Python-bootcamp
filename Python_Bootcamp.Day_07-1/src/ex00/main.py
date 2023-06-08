@@ -55,7 +55,6 @@ def testing_answers():
 	else:
 		print('Subject considered as human')
 
-
 if __name__ == '__main__':
 	quiz()
 	testing_answers()

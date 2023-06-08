@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "answer": true,
+    "resp": 13,
+    "heart_rate": 60,
+    "blush": 2,
+    "dilation": 3
+  },
+  {
+    "id": "4",
+    "answer": true,
+    "resp": 12,
+    "heart_rate": 60,
+    "blush": 3,
+    "dilation": 2
+  },
+  {
+    "id": "6",
+    "answer": true,
+    "resp": 14,
+    "heart_rate": 65,
+    "blush": 3,
+    "dilation": 3
+  }
+]
